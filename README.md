@@ -51,7 +51,7 @@ This version of Meteor Up is powered by [Docker](http://www.docker.com/) and it 
 
 ### Installation
 
-    npm install -g mup
+    npm install -g alimup
 
 ### Creating a Meteor Up Project
     cd my-app-folder
